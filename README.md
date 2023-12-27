@@ -1,2 +1,2 @@
-# App Router
-Code for the [Next.js App Router course](https://nextjs.org/learn/dashboard-app)
+# Learn Next.js
+Code for the [Next.js course](https://nextjs.org/learn/dashboard-app)
